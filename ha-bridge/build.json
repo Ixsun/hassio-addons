@@ -1,5 +1,5 @@
 {
-  "build_from":{
-    "armhf": "resin / rpi-raspbian：jessie",
+  "build_from": {
+    "armhf": "resin/rpi-raspbian:jessie",
   }
 }
