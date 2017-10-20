@@ -1,6 +1,6 @@
-{
-  "build_from": {
-    "armhf": "resin/rpi-raspbian:jessie",
-     "amd64": "library/debian:jessie"
-  }
+{ 
+“build_from”：{ 
+“armhf”：“nodered / node-red-docker：rpi”，
+“amd64”：“nodered / node-red-docker：latest” 
+} 
 }
